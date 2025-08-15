@@ -1,0 +1,2 @@
+# Analysis-of-CPI-Trends-and-Inflation-Impact-in-India-Excel
+Analyzed Consumer Price Index (CPI) data using Excel to study inflation trends and category-wise contributions to price changes. Performed exploratory data analysis (EDA) to identify key inflation drivers and applied statistical techniques to measure their impact on overall inflation. Created visual reports for clear communication of insights.
