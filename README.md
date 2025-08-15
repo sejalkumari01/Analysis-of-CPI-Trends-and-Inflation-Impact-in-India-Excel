@@ -1,4 +1,4 @@
-# 📈 CPI Trends & Inflation Impact in India
+# 📈 CPI Trends & Inflation Impact in India 
 
 Analyzed CPI data to assess inflation trends and category-wise contributions to price changes.
 
